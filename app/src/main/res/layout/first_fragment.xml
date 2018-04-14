@@ -5,13 +5,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@color/gray20"
     android:tag="FirstFragment">
 
   <primao.levandowski.searchcriptocon.searchablespinnerlibrary.SearchableSpinner
       android:id="@+id/first_spinner_coin"
       android:layout_width="0dp"
-      android:layout_height="28dp"
+      android:layout_height="40dp"
       android:layout_marginTop="8dp"
       android:elevation="22dp"
       android:fadeScrollbars="true"
