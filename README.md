@@ -10,3 +10,5 @@ Então, tenha empatia com o Levandowski de 2017 🏃‍♂️
 # Sobre o Criptocon e o projeto
 Essa foi uma das primeiras versões do aplicativo, na época a linguagem kotlin era muito recente no mercado de trabalho.
 O aplicativo tem como objetivo exibir a cotação de criptomoedas, tendo como base o consumo da API CoinMarketCap.
+
+Aplicativo publicado: https://play.google.com/store/apps/details?id=levandowski.primao.criptocon
